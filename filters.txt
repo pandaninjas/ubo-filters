@@ -1,0 +1,4 @@
+! linkedin section
+www.linkedin.com##.update-components-header__text-view:has-text(Suggested):upward(8) ! no suggested posts
+www.linkedin.com##p:has-text(Only group members can comment on this post. You can still react or repost it.):upward(4) ! no suggested groups
+www.linkedin.com##span:has-text(Premium Career Group):upward(9) ! no premium career group posts
