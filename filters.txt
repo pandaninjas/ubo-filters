@@ -7,4 +7,4 @@ www.linkedin.com##.update-components-header__text-view:has-text(Suggested):upwar
 www.linkedin.com##p:has-text(Only group members can comment on this post. You can still react or repost it.):upward(4) 
 
 ! no premium career group posts
-www.linkedin.com##span:has-text(Premium Career Group):upward(9) 
+www.linkedin.com##span.text-view-model:has-text(Premium Career Group):upward(9)
