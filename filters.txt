@@ -8,3 +8,6 @@ www.linkedin.com##p:has-text(Only group members can comment on this post. You ca
 
 ! no premium career group posts
 www.linkedin.com##span.text-view-model:has-text(Premium Career Group):upward(9)
+
+! no sponsored message
+www.linkedin.com##span.msg-conversation-card__pill:has-text(Promoted):upward(8)
